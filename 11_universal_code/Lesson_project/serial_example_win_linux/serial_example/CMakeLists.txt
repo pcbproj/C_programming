@@ -1,3 +1,17 @@
+# For compile application need to create directory "build" 
+# Then enter in directory "build"
+# then write next commands.
+
+# Commands for compile application
+# For Windows:
+# cmake -G "MinGW Makefiles" ..
+# mingw32-make
+
+
+# for Linux:
+# cmake ..
+# make
+
 cmake_minimum_required(VERSION 3.10)
 
 project(serial_app C)
