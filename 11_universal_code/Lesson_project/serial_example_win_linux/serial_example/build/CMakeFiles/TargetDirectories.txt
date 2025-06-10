@@ -1,0 +1,3 @@
+D:/Work/PCBteach/02_MY_projects/C_programming/11_universal_code/Lesson_project/serial_example_win_linux/serial_example/build/CMakeFiles/serial_app.dir
+D:/Work/PCBteach/02_MY_projects/C_programming/11_universal_code/Lesson_project/serial_example_win_linux/serial_example/build/CMakeFiles/edit_cache.dir
+D:/Work/PCBteach/02_MY_projects/C_programming/11_universal_code/Lesson_project/serial_example_win_linux/serial_example/build/CMakeFiles/rebuild_cache.dir
